@@ -18,3 +18,8 @@ console.log("Sum of every positive element:", sumResult)
 //Calculate median and mean
 //Calculate the mean and median values of the number elements from the input array.
 const inputMedianMean = [12, 46, 32, 64];
+inputMedianMean
+Math.abs(inputMedianMean)
+const median = ( ) => {
+    return Math.abs(inputMedianMean)
+}
